@@ -2,7 +2,7 @@
 ## Description
 **WeBlog** is a website in which you can add,update,delete blogs. In this website you can click on :speaker: so it reads the whole blog. You can also record the blog to publish it.
 * [Github repo link](https://github.com/harshilshah99/WeBlog.git)
-* [Website link](https://weblog123.herokuapp.com/)
+* [Website link](https://blogging-d53ef.web.app/)
 ## Technology Stack
 Technology learnt during this project:
 1. React 
