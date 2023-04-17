@@ -9,7 +9,7 @@
   - User-friendly interface for easy navigation and management of blog posts
    
 ###  🤖Resources
-- [Demo Video](https://youtu.be/pjoYiG4mrSA)
+- [Demo Video](https://youtu.be/F7s3r0Ng6nM)
 - [GitHub Repository](https://github.com/harshilshah99/WeBlog.git)
 - [Website Link](https://weblog-8ej1.onrender.com)
 
