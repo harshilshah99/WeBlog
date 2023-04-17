@@ -1,8 +1,8 @@
 # WeBlog
 ## Description
-**WeBlog** is a website in which you can add,update,delete blogs. In this website you can click on :speaker: so it reads the whole blog. You can also record the blog to publish it.
+**WeBlog** is a comprehensive website that provides bloggers with a user-friendly platform to easily create, edit, and publish their content. The website's audio feature allows for greater accessibility, enabling users to listen to the blog posts instead of reading them. Moreover, the option to record blog posts offers a unique and innovative way to create audio content, catering to users who prefer speaking their ideas instead of typing them out.
 * [Github repo link](https://github.com/harshilshah99/WeBlog.git)
-* [Website link](https://blogging-d53ef.web.app/)
+* [Website link](https://weblog-8ej1.onrender.com)
 ## Technology Stack
 Technology learnt during this project:
 1. React 
